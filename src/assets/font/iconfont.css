@@ -1,0 +1,111 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3953027 */
+  src: url('iconfont.woff2?t=1678866049941') format('woff2'),
+       url('iconfont.woff?t=1678866049941') format('woff'),
+       url('iconfont.ttf?t=1678866049941') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-angel:before {
+  content: "\e601";
+}
+
+.icon-angry-:before {
+  content: "\e602";
+}
+
+.icon-angry-1:before {
+  content: "\e603";
+}
+
+.icon-baby-:before {
+  content: "\e607";
+}
+
+.icon-bully:before {
+  content: "\e608";
+}
+
+.icon-burglar:before {
+  content: "\e609";
+}
+
+.icon-confused-:before {
+  content: "\e60c";
+}
+
+.icon-crying-:before {
+  content: "\e60d";
+}
+
+.icon-dazed-:before {
+  content: "\e60e";
+}
+
+.icon-dead:before {
+  content: "\e60f";
+}
+
+.icon-dead-:before {
+  content: "\e610";
+}
+
+.icon-gentleman:before {
+  content: "\e617";
+}
+
+.icon-geek-:before {
+  content: "\e618";
+}
+
+.icon-goofy:before {
+  content: "\e61a";
+}
+
+.icon-goofy-:before {
+  content: "\e61b";
+}
+
+.icon-goofy-1:before {
+  content: "\e61c";
+}
+
+.icon-happy-:before {
+  content: "\e621";
+}
+
+.icon-in-love-:before {
+  content: "\e625";
+}
+
+.icon-joyful-:before {
+  content: "\e628";
+}
+
+.icon-laughing-:before {
+  content: "\e62b";
+}
+
+.icon-nerd-:before {
+  content: "\e62d";
+}
+
+.icon-sad-:before {
+  content: "\e636";
+}
+
+.icon-sick-:before {
+  content: "\e640";
+}
+
+.icon-thinking:before {
+  content: "\e647";
+}
+

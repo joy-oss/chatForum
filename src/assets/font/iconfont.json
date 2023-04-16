@@ -1,0 +1,177 @@
+{
+  "id": "3953027",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1600926",
+      "name": "angel",
+      "font_class": "angel",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "1600927",
+      "name": "angry-1",
+      "font_class": "angry-",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "1600931",
+      "name": "angry-2",
+      "font_class": "angry-1",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "1600944",
+      "name": "baby-2",
+      "font_class": "baby-",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "1600945",
+      "name": "bully",
+      "font_class": "bully",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "1600946",
+      "name": "burglar",
+      "font_class": "burglar",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "1600955",
+      "name": "confused-3",
+      "font_class": "confused-",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "1600959",
+      "name": "crying-2",
+      "font_class": "crying-",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "1600961",
+      "name": "dazed-3",
+      "font_class": "dazed-",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "1600964",
+      "name": "dead",
+      "font_class": "dead",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "1600969",
+      "name": "dead-4",
+      "font_class": "dead-",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "1600990",
+      "name": "gentleman",
+      "font_class": "gentleman",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "1600994",
+      "name": "geek-1",
+      "font_class": "geek-",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "1601001",
+      "name": "goofy",
+      "font_class": "goofy",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "1601002",
+      "name": "goofy-4",
+      "font_class": "goofy-",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "1601003",
+      "name": "goofy-2",
+      "font_class": "goofy-1",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "1601018",
+      "name": "happy-10",
+      "font_class": "happy-",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "1601029",
+      "name": "in-love-2",
+      "font_class": "in-love-",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "1601040",
+      "name": "joyful-1",
+      "font_class": "joyful-",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "1601049",
+      "name": "laughing-2",
+      "font_class": "laughing-",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "1601055",
+      "name": "nerd-2",
+      "font_class": "nerd-",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "1601076",
+      "name": "sad-4",
+      "font_class": "sad-",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "1601099",
+      "name": "sick-3",
+      "font_class": "sick-",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "1601123",
+      "name": "thinking",
+      "font_class": "thinking",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    }
+  ]
+}
